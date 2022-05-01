@@ -1,0 +1,17 @@
+Delivery
+4 objs 1 dest 1 src 1 objInT 0
+4 objs 1 dest 1 src 0 objInT 0
+1 objs 0
+4
+load
+2 src 0 objInT 0
+1 objInT 1
+unload
+3 dest 0 objs 1 objInT 1
+2 objs 0 objInT 0
+mvD
+2 dest 1 objInT 1
+2 dest 0 src 1
+mvS
+2 src 1 objInT 0
+2 dest 1 src 0

@@ -1,0 +1,20 @@
+Gripper
+4 B 1 G 1 C 1 X 0
+4 B 1 G 1 C 0 X 0
+2 B 0 C 0
+5
+drop-ball-at-x
+2 C 1 X 1
+3 C 0 G 1 B 1
+move-to-x-half-loaded
+4 X 0 B 0 C 1 G 1
+1 X 1
+move-to-x-fully-loaded
+3 X 0 C 1 G 0
+1 X 1
+pick-ball-not-in-x
+3 X 0 B 1 G 1
+3 B 0 G 0 C 1
+leave-x
+3 X 1 C 0 G 1
+1 X 0

@@ -1,0 +1,14 @@
+TestOn
+3 objX 1 objY 1 stack 0
+3 objX 1 objY 1 stack 0
+1 stack 1
+3
+put-unstackX
+1 objX 1
+1 objX 0
+put-unstackY
+1 objY 1
+1 objY 0
+pick-stack
+3 objX 0 objY 0 stack 0
+2 objY 1 stack 1

@@ -1,0 +1,26 @@
+Blocks
+5 E 0 X 0 G 0 n_x 1 n_y 1
+5 E 1 X 0 G 0 n_x 1 n_y 1
+1 G 1
+7
+pick-ab-x
+5 E 1 X 0 G 0 n_x 1 n_y 1
+2 E 0 n_x 0
+pick-ab-y
+5 E 1 X 0 G 0 n_x 0 n_y 1
+2 E 0 n_y 0
+put-aside-1
+4 E 0 X 0 G 0 n_x 0
+1 E 1
+put-aside-2
+5 E 0 X 0 G 0 n_x 1 n_y 1
+1 E 1
+pick-x
+5 E 1 X 0 G 0 n_x 0 n_y 0
+2 E 0 X 1
+put-x-aside
+5 E 0 X 1 G 0 n_x 0 n_y 1
+2 E 1 X 0
+put-x-on-y
+5 E 0 X 1 G 0 n_x 0 n_y 0
+4 E 1 X 0 G 1 n_y 1

@@ -1,0 +1,14 @@
+ShovelingSnow
+3 sd 1 sw 1 dtDW 1
+3 sd 1 sw 1 dtDW 1
+2 sd 0 sw 0
+3
+shovel
+1 sw 1
+1 sw 0
+mvDW
+2 dtDW 1 sw 0
+1 dtDW 0
+snow-blower
+2 sd 1 dtDW 0
+3 sw 1 sd 0 dtDW 1

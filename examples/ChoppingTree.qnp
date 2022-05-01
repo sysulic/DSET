@@ -1,0 +1,11 @@
+ChoppingTree
+2 height 1 on 0
+2 height 1 on 0
+1 height 0
+2
+pick
+1 on 0
+1 on 1
+chop
+1 on 1
+2 on 0 height 0
